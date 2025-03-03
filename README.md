@@ -17,7 +17,7 @@ Additionally, the model can take input from both **pre-recorded videos** and a *
 
 This project aims to classify human actions using a 3D CNN, leveraging both spatial and temporal features from video sequences. It is designed for applications such as **surveillance systems, sports analytics,** and **gesture recognition**.
 
-To demonstrate the model’s capabilities, a few **sample input videos** have been included in the repository. Additionally, the model can be updated to real-time input from a **live camera** and predict actions instantly.
+To demonstrate the model’s capabilities, a few **sample input videos** have been included in the repository. Additionally, the model can be updated to real-time input from a **live camera** and predict actions instantly, liveCamera.ipynb file contains the code for it.
 
 ---
 
