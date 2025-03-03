@@ -3,7 +3,7 @@
 This project presents an **Action Recognition System** using a **3D Convolutional Neural Network (3D CNN)** built with **Keras** and **OpenCV** to classify human actions from video clips. The model is designed to recognize five actions: **Boxing, HandWaving, Jogging, Running,** and **Walking**. 
 
 The repository includes:
-- **Sample Input Videos:** A collection of videos for testing the model.
+- **Sample Input Videos:** A collection of videos for testing the model are uploaded in the Resources Folder distributed for each class.
 - **`code.ipynb`:** Jupyter notebook containing the complete code for data preprocessing, model training, and prediction.
 - **`documentation.pdf`:** Detailed documentation explaining the project architecture, implementation, and results.
 - **`liveCamera.ipynb`:** Source code for implementing live camera feed to the model. 
