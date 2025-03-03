@@ -6,6 +6,7 @@ The repository includes:
 - **Sample Input Videos:** A collection of videos for testing the model.
 - **`code.ipynb`:** Jupyter notebook containing the complete code for data preprocessing, model training, and prediction.
 - **`documentation.pdf`:** Detailed documentation explaining the project architecture, implementation, and results.
+- **`liveCamera.ipynb`:** Source code for implementing live camera feed to the model. 
 - **Pretrained Model Weights:** For easy testing and inference.
 
 Additionally, the model can take input from both **pre-recorded videos** and a **live camera feed** to predict actions in real-time.
