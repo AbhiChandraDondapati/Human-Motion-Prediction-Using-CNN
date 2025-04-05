@@ -1,5 +1,7 @@
 # 🎥 HUMAN-MOTION-PREDICTION-USING-CNN
 
+![image (2)](https://github.com/user-attachments/assets/1944420b-6b86-4433-a666-b7c4c163b63d)
+
 This project presents an **Action Recognition System** using a **3D Convolutional Neural Network (3D CNN)** built with **Keras** and **OpenCV** to classify human actions from video clips. The model is designed to recognize five actions: **Boxing, HandWaving, Jogging, Running,** and **Walking**. 
 
 The repository includes:
